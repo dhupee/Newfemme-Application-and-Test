@@ -1,0 +1,27 @@
+﻿XSoal test bidang Python Programmer, untuk AI/ML project
+
+
+1. Write a small program in python to filter the text filled in by the user,
+If there is a word that is in this file: https://drive.google.com/file/d/10aAukmjqt_R0F2xOEBE2rIywGfyxOfor/view?usp=share_link 
+Given response: Sorry the word is not allowed
+
+
+2. Write a deep learning models for image recognition and classification tasks using Python and libraries such as Keras and PyTorch.
+
+
+Image dataset for batagor
+https://drive.google.com/drive/folders/1OiMh4Fq7viNMrtUbdXh-KlgCS1ZQ0T5l?usp=drive_link
+
+
+
+
+Durasi pengerjaan : 5 jam
+
+
+Boleh mencari reference di Google atau chatGPT.
+
+
+Hasil source code diupload di google drive
+
+
+Hasil program dijalankan dengan alur proses nya tolong divideo kan dan diupload di google drive
